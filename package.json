@@ -1,5 +1,5 @@
 {
-  "name": "mini-messageboard",
+  "name": "message-board-app",
   "version": "1.0.0",
   "description": "A mini messageboard built with Express and EJS",
   "main": "app.js",
